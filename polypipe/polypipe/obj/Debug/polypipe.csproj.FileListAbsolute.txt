@@ -1,0 +1,17 @@
+C:\Users\akind\Desktop\polypipe\polypipe\bin\Debug\polypipe.exe.config
+C:\Users\akind\Desktop\polypipe\polypipe\bin\Debug\polypipe.exe
+C:\Users\akind\Desktop\polypipe\polypipe\bin\Debug\polypipe.pdb
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.csproj.AssemblyReference.cache
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.csproj.SuggestedBindingRedirects.cache
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.Form1.resources
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.Properties.Resources.resources
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.csproj.GenerateResource.cache
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.csproj.CoreCompileInputs.cache
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.exe
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.pdb
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.Form2.resources
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.Form3.resources
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.Form4.resources
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.Form5.resources
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.Form6.resources
+C:\Users\akind\Desktop\polypipe\polypipe\obj\Debug\polypipe.Form8.resources
